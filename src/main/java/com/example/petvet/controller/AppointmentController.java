@@ -1,7 +1,7 @@
 package com.example.petvet.controller;
 
 import com.example.petvet.entity.Appointment;
-import com.example.petvet.service.AppointmentService;
+import com.example.petvet.services.AppointmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

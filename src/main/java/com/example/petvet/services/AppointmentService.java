@@ -1,4 +1,4 @@
-package com.example.petvet.service;
+package com.example.petvet.services;
 
 import com.example.petvet.entity.Appointment;
 import com.example.petvet.repository.AppointmentRepository;
